@@ -1,4 +1,5 @@
 # Implementing a simple serverless application which uses Web Identity Federation.  
+![image](https://user-images.githubusercontent.com/73319030/235738466-1447b8fa-96dc-4b82-b4f1-b9d9651af324.png)
 
 ## The application runs using the following technologies
 
