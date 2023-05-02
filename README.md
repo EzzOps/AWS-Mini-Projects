@@ -20,3 +20,8 @@ This advanced demo consists of 6 stages :-
 - STAGE 3 : Create Cognito Identity Pool  
 
 - STAGE 4 : Update App Bucket & Test Application
+
+
+_notes_
+
+you can't use AWS resources with anything but AWS credentials. And so this OAth token ( Google API Project as an ID Provider) can't be used to access anything inside AWS, so the swaping between google token and cognito is  important
