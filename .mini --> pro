@@ -1,0 +1,7 @@
+My thoughts to advanced this projects by adding more requirments
+
+1- recreate the cloudformation yml file to write the same but with AWS cli script, python script, terraform
+2- in this project I update the app files in the manually, how could i do this job in the CI/CD practice?
+update = download the files from s3m edit the files, delete the old files from s3, upload the new files
+
+3- is there a serverless app? so why i didn't use lambda

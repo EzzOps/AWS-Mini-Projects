@@ -1,0 +1,6 @@
+## Client ID
+238266373515-il9pg2odhe4koqes4gn0ntbl1gcf52nk.apps.googleusercontent.com
+## Client secret
+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
+
+"us-east-1:7cbe1fda-03ea-4f45-8191-727a902633d3", // Identity pool ID
