@@ -4,4 +4,16 @@ My thoughts to advanced this projects by adding more requirments
 2- in this project I update the app files in the manually, how could i do this job in the CI/CD practice?
 update = download the files from s3m edit the files, delete the old files from s3, upload the new files
 
-3- is there a serverless app? so why i didn't use lambda
+3- is there a serverless app? so why i didn't use lambda --- I found the answer, the lambda function embedded in cloudformation yml file
+
+the lambda function written in pyhton which i understand most of the codem I use chatgpt to help me understand it and also for the cloudformation yml file
+
+_ with helping of chatgpt, I tried to translate the cloudformation template to aws cli commands
+for notes --> 
+AWS CLI command follows the syntax aws <service> <action> <parameters>, where service is the AWS service you are interacting with, action is the operation you want to perform, and parameters are any additional arguments required by the command.
+
+_with helping of chatgpt, I tried to translate the cloudformation template to terraform but i get alot of bugs
+but i good point is to provide python code in terraform, use this syntax
+  code = <<EOF
+##the code here
+  EOF
