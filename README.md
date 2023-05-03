@@ -14,13 +14,13 @@ The application runs from a browser, gets the user to login using a Google ID an
 This advanced demo consists of 6 stages :-  
 
 - STAGE 1 : Provision the environment and review tasks    
-
+![image](https://user-images.githubusercontent.com/73319030/235738466-1447b8fa-96dc-4b82-b4f1-b9d9651af324.png)
 - STAGE 2 : Create Google API Project & Client ID  
-
+![image](https://user-images.githubusercontent.com/73319030/235763628-49a868f6-2e67-4f24-81b6-1eee330f15d8.png)
 - STAGE 3 : Create Cognito Identity Pool  
-
+![image](https://user-images.githubusercontent.com/73319030/235763332-5831a3e8-2a3d-4084-8800-0dd2377b6e40.png)
 - STAGE 4 : Update App Bucket & Test Application
-
+![image](https://user-images.githubusercontent.com/73319030/235770753-94814403-d560-4291-9d39-d41a22683dfa.png)
 
 _notes_
 
