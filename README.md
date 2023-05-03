@@ -26,6 +26,8 @@ _notes_
 _ you can't use AWS resources with anything but AWS credentials. And so this OAth token ( Google API Project as an ID Provider) can't be used to access anything inside AWS, so the swaping between google token and cognito is  important
  _ By design, delivering data out of CloudFront can be more cost effective than delivering it from S3 directly to your users.
 
+_  In addition, data transfer out for content by using CloudFront is often more cost effective than serving files directly from S3, and there is no data transfer fee from S3 to CloudFront. You only pay for what is delivered to the internet from CloudFront
+
 ![image](https://user-images.githubusercontent.com/73319030/235865002-ea8b1c28-e177-4384-8627-5c853b6d1e6a.png)
 ![image](https://user-images.githubusercontent.com/73319030/235865031-710e0f6d-bdcd-4f77-a7c6-b00f834eaaa7.png)
 
