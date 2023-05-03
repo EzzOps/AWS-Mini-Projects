@@ -5,8 +5,9 @@ My thoughts to advanced this projects by adding more requirments
 update = download the files from s3m edit the files, delete the old files from s3, upload the new files
 
 3- is there a serverless app? so why i didn't use lambda --- I found the answer, the lambda function embedded in cloudformation yml file
-
 the lambda function written in pyhton which i understand most of the codem I use chatgpt to help me understand it and also for the cloudformation yml file
+
+
 
 _ with helping of chatgpt, I tried to translate the cloudformation template to aws cli commands
 for notes --> 
