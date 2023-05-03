@@ -27,3 +27,13 @@ you can't use AWS resources with anything but AWS credentials. And so this OAth 
 
 ![image](https://user-images.githubusercontent.com/73319030/235865002-ea8b1c28-e177-4384-8627-5c853b6d1e6a.png)
 ![image](https://user-images.githubusercontent.com/73319030/235865031-710e0f6d-bdcd-4f77-a7c6-b00f834eaaa7.png)
+
+
+## Credits
+**[Mini-project - Simple WEB Identity Federation App]**
+
+https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-cognito-web-identity-federation
+
+https://www.youtube.com/playlist?list=PLTk5ZYSbd9Mh_T2ymo5TAm-RqOamz59Gd
+
+**[Amazon S3 + Amazon CloudFront](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/)**
