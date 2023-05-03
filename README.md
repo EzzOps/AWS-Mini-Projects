@@ -28,6 +28,11 @@ _ you can't use AWS resources with anything but AWS credentials. And so this OAt
 
 _  In addition, data transfer out for content by using CloudFront is often more cost effective than serving files directly from S3, and there is no data transfer fee from S3 to CloudFront. You only pay for what is delivered to the internet from CloudFront
 
+_ the price for transferring data from CloudFront to the internet is often lower than from S3 to the internet, so you might even lower your AWS bill!
+
+_ By using CloudFront, we can set up additional access restrictions like geo-restrictions, signed URLs, and signed cookies.
+Another security feature of CloudFront is Origin Access Identity (OAI), which restricts access to an S3 bucket and its content to only CloudFront and operations it performs.
+
 ![image](https://user-images.githubusercontent.com/73319030/235865002-ea8b1c28-e177-4384-8627-5c853b6d1e6a.png)
 ![image](https://user-images.githubusercontent.com/73319030/235865031-710e0f6d-bdcd-4f77-a7c6-b00f834eaaa7.png)
 
